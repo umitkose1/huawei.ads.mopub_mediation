@@ -1,0 +1,3 @@
+rootProject.name = "mediationjitpack"
+include ':app'
+include ':mediation_adapter_mopub'
