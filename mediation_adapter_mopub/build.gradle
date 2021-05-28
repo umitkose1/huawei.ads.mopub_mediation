@@ -55,9 +55,9 @@ dependencies {
     implementation 'androidx.core:core-ktx:1.3.2'
     implementation 'androidx.appcompat:appcompat:1.2.0'
     implementation 'com.google.android.material:material:1.2.1'
-    implementation 'com.huawei.hms:ads-lite:13.4.39.302'
+    implementation 'com.huawei.hms:ads-lite:13.4.41.302'
 
-    implementation ('com.mopub:mopub-sdk:5.14.0@aar') {
+    implementation ('com.mopub:mopub-sdk:5.15.0@aar') {
         transitive = true
         exclude module: 'libAvid-mopub'
         exclude module: 'moat-mobile-app-kit'
