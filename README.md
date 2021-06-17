@@ -72,7 +72,7 @@ In the app-level build.gradle, include Huawei Ads dependency (required by the ad
 
 ```groovy
 dependencies {
-    implementation 'com.huawei.hms:ads-lite:13.4.41.300'
+    implementation 'com.huawei.hms:ads:3.4.41.304'
     implementation 'com.github.Explore-In-HMS:huawei.ads.mopub_mediation:1.1.0'
 }
 ```
