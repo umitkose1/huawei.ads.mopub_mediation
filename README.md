@@ -32,7 +32,7 @@ This is a project to demonstrate how to use MoPub’s mediation feature with Hua
 | Banner Ad      | com.hmscl.huawei.ads.mediation_adapter_mopub.banner |
 | Interstitial Ad      | com.hmscl.huawei.ads.mediation_adapter_mopub.interstitial     |
 | Rewarded Video Ad | com.hmscl.huawei.ads.mediation_adapter_mopub.rewarded     |
-| Native Ad (Basic) | ccom.hmscl.huawei.ads.mediation_adapter_mopub.native_basic    |
+| Native Ad (Basic) | com.hmscl.huawei.ads.mediation_adapter_mopub.native_basic    |
 | Native Ad (Advanced) | com.hmscl.huawei.ads.mediation_adapter_mopub.native_advanced    |
 
 ## Custom Event Parameters
